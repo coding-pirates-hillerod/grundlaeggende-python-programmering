@@ -5,5 +5,6 @@ print("Min mor hedder Ole ..")
 name = input("Hvad hedder du? ")
 print(name)
 
+# len funtionen
 length_of_name = len("Jonas")
 print(length_of_name)
